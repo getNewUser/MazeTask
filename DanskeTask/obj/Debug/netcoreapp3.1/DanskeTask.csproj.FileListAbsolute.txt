@@ -1,0 +1,11 @@
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\bin\Debug\netcoreapp3.1\DanskeTask.exe
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\bin\Debug\netcoreapp3.1\DanskeTask.deps.json
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\bin\Debug\netcoreapp3.1\DanskeTask.runtimeconfig.json
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\bin\Debug\netcoreapp3.1\DanskeTask.runtimeconfig.dev.json
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\bin\Debug\netcoreapp3.1\DanskeTask.dll
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\bin\Debug\netcoreapp3.1\DanskeTask.pdb
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\obj\Debug\netcoreapp3.1\DanskeTask.csprojAssemblyReference.cache
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\obj\Debug\netcoreapp3.1\DanskeTask.AssemblyInfoInputs.cache
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\obj\Debug\netcoreapp3.1\DanskeTask.AssemblyInfo.cs
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\obj\Debug\netcoreapp3.1\DanskeTask.dll
+C:\Users\vilmi\source\repos\DanskeTask\DanskeTask\obj\Debug\netcoreapp3.1\DanskeTask.pdb
